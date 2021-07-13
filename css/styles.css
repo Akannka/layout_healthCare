@@ -285,7 +285,7 @@ h2.title_title_pricing{
 }
 
 .contact{
-    border-top: 1px solid black;
+    border-top: 1px solid transparent;
     display: flex;
     flex-direction: row;
     
@@ -295,7 +295,7 @@ h2.title_title_pricing{
 }
 
 .title_contact{
-   margin-top: 20px;
+   margin-top: 50px;
 }
 
 .form_sub input{
