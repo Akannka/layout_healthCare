@@ -193,7 +193,7 @@ body {
 	flex-basis: 300px;
 	padding: 15px;
 	margin-left:30px;
-	margin-top:30px;
+	margin-top:20px;
 	background-color: #FFF;
 }
 
@@ -237,7 +237,7 @@ h2.title_title_pricing{
 	height: 640px;
 }
 .pricing .wrapper{
-	margin-top:250px;
+	margin-top:230px;
 }
 .price{
 	display: block;
