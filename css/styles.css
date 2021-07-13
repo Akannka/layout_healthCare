@@ -292,6 +292,11 @@ h2.title_title_pricing{
 .contact_info{
     margin-left: 40px;
 }
+
+.title_contact{
+   margin-top: 20px;
+}
+
 .form_sub input{
     font-size: 15px;
     font-style: italic;
